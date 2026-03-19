@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    anonymous_inheritance_enabled: "Allow anonymous shadow users to inherit group memberships from their backing user"
+    anonymous_inheritance_inheritable_groups: "Groups whose membership is inherited by anonymous shadow users"

@@ -1,0 +1,10 @@
+plugins:
+  anonymous_inheritance_enabled:
+    default: false
+    client: true
+  anonymous_inheritance_inheritable_groups:
+    type: group_list
+    list_type: compact
+    default: ""
+    allow_any: false
+    refresh: true
